@@ -16,7 +16,7 @@ Features
 
  Execution Screenshots
 1. Database & Table Creation
-![Database Creation](Proj1/01_database_creation_and_table_creation.png)
+![Database Creation](Proj1/01_database_creation and table creation.png)
 2. Data Insertion & SELECT Query
 ![Insert Select](Proj1/02_datainsertion_and_selectquery.png)
 3. Update & Delete Operations
