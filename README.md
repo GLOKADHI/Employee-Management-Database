@@ -14,10 +14,4 @@ Features
 - Basic table normalization
 
 
- Execution Screenshots
-1. Database & Table Creation
-![Database Creation](Proj1/01_database_creation and table creation.png)
-2. Data Insertion & SELECT Query
-![Insert Select](Proj1/02_datainsertion_and_selectquery.png)
-3. Update & Delete Operations
-![Update Delete](Proj1/03_update_and_delete_command.png)
+ Execution Screenshots is in the Proj1 Folder. Kindly Review
